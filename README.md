@@ -1,8 +1,8 @@
 # Fatma Yardan
 
-![](https://user-images.githubusercontent.com/90905334/133772077-dbadafe7-9cc0-4aca-a29a-de65fbaefabb.jpg)
+![](https://user-images.githubusercontent.com/90905334/154847401-dfa8a91a-f21e-4f05-893e-67ac9e567d0b.png)
 
-3-4 paragraflık ingilizce otobiyografin yer alacak burada, doğumun yaşadığın yerler hobilerin yazılacak, okul hayatın ve başarıların yazılacak daha sonra yazılım alanına başlaman ve merakından bahsedeceksin. .........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+3-4 paragraflık ingilizce otobiyografin yer alacak burada, doğumun yaşadığın yerler hobilerin yazılacak, okul hayatın ve başarıların yazılacak daha sonra yazılım alanına başlaman ve merakından bahsedeceksin. .........................................................................................................................................................
 
 
 ### Programming Languages
