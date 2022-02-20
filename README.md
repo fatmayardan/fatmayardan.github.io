@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/90905334/154847401-dfa8a91a-f21e-4f05-893e-67ac9e567d0b.png)
 
-3-4 paragraflık ingilizce otobiyografin yer alacak burada, doğumun yaşadığın yerler hobilerin yazılacak, okul hayatın ve başarıların yazılacak daha sonra yazılım alanına başlaman ve merakından bahsedeceksin. .........................................................................................................................................................
+Merhaba ben Fatma YARDAN, 1996 yılında Konya da dünyaya geldim, yaşamımın ve öğretim hayatımın tamamını Konya da geçirdim. 2021 yılında Selçuk üniversitesi Türk Dili ve Edebiyatı bölümünden mezun oldum, mezuniyetimin ardından kendimi Grafik tasarımı ve programlama üzerine geliştirmeye başladım.  
 
 
 ### Programming Languages
