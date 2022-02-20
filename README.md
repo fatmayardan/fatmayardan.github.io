@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/90905334/154847401-dfa8a91a-f21e-4f05-893e-67ac9e567d0b.png)
 
-Merhaba ben Fatma YARDAN, 1996 yılında Konya da dünyaya geldim, yaşamımın ve öğretim hayatımın tamamını Konya da geçirdim. 2021 yılında Selçuk üniversitesi Türk Dili ve Edebiyatı bölümünden mezun oldum, mezuniyetimin ardından kendimi Grafik tasarımı ve programlama üzerine geliştirmeye başladım.  
+Merhaba ben Fatma YARDAN, 1996 yılında Konya'da dünyaya geldim. Yaşamımın ve öğretim hayatımın tamamını Konya'da geçirdim. 2021 yılında Selçuk üniversitesi Türk Dili ve Edebiyatı bölümünden mezun oldum. Mezuniyetimin ardından kendimi Grafik Tasarımı ve Programlama üzerine geliştirmeye başladım.  
 
 
 ### Graphic Design and Video Editing
