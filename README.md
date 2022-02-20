@@ -5,6 +5,12 @@
 Merhaba ben Fatma YARDAN, 1996 yılında Konya da dünyaya geldim, yaşamımın ve öğretim hayatımın tamamını Konya da geçirdim. 2021 yılında Selçuk üniversitesi Türk Dili ve Edebiyatı bölümünden mezun oldum, mezuniyetimin ardından kendimi Grafik tasarımı ve programlama üzerine geliştirmeye başladım.  
 
 
+### Graphic Design and Video Editing
+
+![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+ ![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665) ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+
 ### Programming Languages
 
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
